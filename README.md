@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,css,html,react,next,nodejs,github,mysql" />
+</a>
 <!--
 **CanavezDev/CanavezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
